@@ -1,4 +1,3 @@
-// greet.cjs
 async function main() {
   const { default: chalk } = await import("chalk");
 
